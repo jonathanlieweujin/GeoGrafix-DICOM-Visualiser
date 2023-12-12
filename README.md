@@ -6,15 +6,15 @@ This assignment aims to explore the intersection of medical imaging, data visual
 For complete files including dataset (accessed for assignment purposes only) : 
 https://umsedumy-my.sharepoint.com/:f:/g/personal/jonathan_liew_bs20_iluv_ums_edu_my/EvvKGQqaBY9PruIVLZRZgoQBhGcZTP66-1h9Y1TjKunzDA?e=u56Gux
 
-![image](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/05dda351-628f-4b17-9c92-5816575c4e17)
+![Assignment2_BS20110240](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/8de7242a-6f86-43f6-bee4-d0b64f1d513d)
 Overview of GeoGrafiX interface.
 
-![image](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/c0cb270a-bf02-4465-895e-f3eb535903d1)
+![Assignment2_BS201102401](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/6ba18493-7c19-4293-9624-bde4df12f1e1)
 User can apply colour maps to view different layers within the image better.
 
-![image](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/88851a6a-e009-472b-9d5d-423fd0e268a9)
+![Assignment2_BS201102402](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/e3b1aec5-9811-4b2a-9a1a-35abb28443a8)
 User can get the distance between two points on the image.
 
-![image](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/fb2a964a-40c7-49e7-894b-e075cb7bb529)
+![Assignment2_BS201102403](https://github.com/jonathanlieweujin/GeoGrafix-DICOM-Visualiser/assets/106479441/11400353-44d0-48b7-932e-6eb27f370c20)
 User can manipulate colour window and level for both 3D and 2D models.
 
